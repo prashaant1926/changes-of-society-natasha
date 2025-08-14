@@ -1,3 +1,5 @@
+
+
 # Research Concept & Direction
 
 Abstract
@@ -9,3 +11,5 @@ The rapid advancement of genetic engineering has sparked intense discussions abo
 ical questions about which traits should be al- tered and who has the authority to make such decisions [1, 8].
 Historical parallels to the eugenics movement provide a cautionary framework for understand- ing the dangers of defining genetic "normalcy." Eugenic ideologies in the early 20th century led to widespread discrimination and the marginal- ization of specific communities based on their perceived genetic traits [4]. While contemporary genetic engineering often seeks to expand indi- vidual opportunities, the socioeconomic barriers limiting access to these technologies risk repli- cating patterns of inequity [6, 12]. Additionally, societal debates over the definitions of disabil- ity and quality of life highlight the complexity of determining which traits are worth altering [9, 11].
 These ethical dilemmas underscore the impor- tance of addressing how genetic selection could marginalize specific communities, reinforce ex- isting biases, and constrain human diversity. As technological advancements progress, soci- ety must grapple with these critical questions to ensure the responsible development and equi- table application of genetic selection technolo- gies. By synthesizing insights from historical and contemporary debates, this review provides a framework for understanding the intersections of identity, diversity, and equity in the context of genetic selection.
+
+

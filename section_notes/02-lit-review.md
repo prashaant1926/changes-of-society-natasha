@@ -1,5 +1,7 @@
 
 
+
+
 # Literature Review
 
 ## Summary
@@ -101,4 +103,6 @@ This literature review validates our central thesis that genetic selection techn
 5. **Corrective equity models** that move beyond liberal equality assumptions
 
 The literature confirms that current genetic selection research operates within inherited frameworks that may be fundamentally inadequate for the technologies being developed, supporting our argument for new theoretical approaches to genetic ethics.
+
+
 

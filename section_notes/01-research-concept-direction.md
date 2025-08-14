@@ -1,3 +1,5 @@
+# Research Concept & Direction
+
 
 
 # Research Concept & Direction
@@ -19,7 +21,7 @@ The genetic selection field operates on assumptions that may be fundamentally in
 - **Individual autonomy primacy** as the dominant ethical framework
 - **Technology neutrality** where ethics exist separately from technical implementation
 - **Fixed disability models** that provide clear modification targets
-- **Liberal equality principles** where equal access produces fair outcomes
+- **Liberal equality principles** where equal access produces fair outcomes, Edit made
 
 **Core Research Question**: What if genetic selection technologies inherently undermine these foundational assumptions, requiring completely different ethical and technical frameworks?
 

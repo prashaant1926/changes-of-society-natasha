@@ -1,3 +1,5 @@
+
+
 # Research Concept & Direction
 
 
@@ -72,5 +74,7 @@ Our approach will test these assumption inversions through:
 - **Equity intervention studies** comparing equal vs. corrective access models
 
 This research direction positions genetic selection not as an optimization problem but as a **complex adaptive system** requiring fundamentally different analytical and ethical approaches.
+
+
 
 

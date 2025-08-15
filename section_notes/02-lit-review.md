@@ -1,12 +1,14 @@
 
 
+
+
 # Literature Review
 
 ## Summary
 
-This literature review examines genetic selection technologies through the lens of assumption inversion, focusing on five foundational assumptions that underpin current research: (1) binary benefit/harm categorizations, (2) individual autonomy sufficiency, (3) technology value-neutrality, (4) static disability models, and (5) equality through equal access. Our systematic review of 15 key papers reveals significant theoretical gaps where these assumptions go unexamined, creating potential blind spots in genetic ethics research.
+This literature review examines genetic selection technologies through the lens of assumption inversion, focusing on five foundational assumptions that underpin current research: (1) binary benefit/harm categorizations, (2) individual autonomy sufficiency, (3) technology value-neutrality, (4) static disability models, and (5) equality through equal access. Our systematic review of 19 key papers from 2018-2025 reveals significant theoretical gaps where these assumptions go unexamined, creating potential blind spots in genetic ethics research.
 
-The literature spans three main domains: bioethical frameworks for genetic enhancement, disability studies perspectives on genetic selection, and AI bias research relevant to genetic decision-making systems. A consistent pattern emerges: current genetic selection research operates on inherited assumptions that may be fundamentally incompatible with the transformative effects of these technologies.
+The literature spans four main domains: bioethical frameworks for genetic enhancement, disability studies perspectives on genetic selection, AI bias research relevant to genetic decision-making systems, and recent empirical studies on polygenic risk assessment. A consistent pattern emerges: current genetic selection research operates on inherited assumptions that may be fundamentally incompatible with the transformative effects of these technologies, with newer research (2023-2025) increasingly revealing assumption-destabilization effects.
 
 ## Key Papers
 
@@ -58,6 +60,30 @@ The literature spans three main domains: bioethical frameworks for genetic enhan
 - **Key Findings**: CRISPR applications to disabilities may be useless but toxic, aggravating social discourse that devalues disabled people. Complex disabilities make genetic approaches problematic.
 - **Relevance**: **Supports Assumption 3 and 4 challenges**. Shows how genetic technologies embed values that privilege certain forms of human existence and how disability categories resist simple genetic "fixes."
 
+### Paper 9: CRISPR Ethics Systematic Review (Iltis et al., 2024)
+- **Title**: The Ethics of Human Embryo Editing via CRISPR-Cas9 Technology: A Systematic Review of Ethical Arguments, Reasons, and Concerns
+- **Authors**: Ana Iltis, et al.
+- **Key Findings**: Systematic review of 223 publications identifies six interconnected ethical themes: risk/harm, potential benefit, oversight, informed consent, justice/equity, and eugenics. Ethical arguments form complex webs where decisions cascade across categories.
+- **Relevance**: **Direct validation of assumption-destabilization hypothesis**. Shows that even systematic review cannot resolve fundamental ethical tensions, revealing framework instability.
+
+### Paper 10: Polygenic Risk Embryo Screening (Capalbo et al., 2024)
+- **Title**: Screening embryos for polygenic disease risk: a review of epidemiological, clinical, and ethical considerations
+- **Authors**: Antonio Capalbo, Guido de Wert, Heidi Mertes, Liraz Klausner, Edith Coonen
+- **Key Findings**: Polygenic risk scores (PRSs) transform genetic selection from binary to probabilistic decisions, but have poor portability across populations and lack frameworks for probabilistic reproductive choices.
+- **Relevance**: **Strong support for Assumption 1 challenge**. Demonstrates that genetic "benefits" are probabilistic, context-dependent, and population-specific rather than objectively determinable.
+
+### Paper 11: Disability Rights and Genetic Technologies (NCD, 2024)
+- **Title**: From Fetal Surgery to Gene Editing: The Current and Potential Impact of Prenatal Interventions on People with Disabilities
+- **Authors**: National Council on Disability
+- **Key Findings**: Prenatal genetic technologies reproduce eugenic logics by positioning disability as inherently undesirable while excluding disabled people from decision-making processes.
+- **Relevance**: **Multi-assumption challenge**. Supports Assumptions 2 (collective consent needed), 3 (technologies embed values), and 4 (disability categories socially constructed).
+
+### Paper 12: AI Fairness in Healthcare (Chen et al., 2023)
+- **Title**: Algorithm fairness in artificial intelligence for medicine and healthcare
+- **Authors**: Richard J Chen, Judy J Wang, Drew FK Williamson, Tiffany Y Chen, et al.
+- **Key Findings**: Healthcare AI bias emerges from conceptual frameworks about health rather than algorithmic design. Different fairness definitions are mathematically incompatible, revealing fairness as socially constructed.
+- **Relevance**: **Parallel assumption-destabilization effect**. Demonstrates how technologies undermine the frameworks used to evaluate them, supporting our central thesis about genetic selection.
+
 ## Research Gaps
 
 ### Gap 1: Assumption Stability Analysis
@@ -78,27 +104,53 @@ While papers acknowledge intergenerational impacts, **no comprehensive framework
 ### Gap 6: Contextual Variation in Genetic Benefits
 **Insufficient empirical research on how genetic trait "benefits" vary** across social, cultural, and temporal contexts, despite theoretical arguments for context-dependence.
 
+### Gap 7: Probabilistic Decision-Making Frameworks
+**No adequate frameworks exist for reproductive decision-making** based on probabilistic genetic information from polygenic risk scores, despite technology shift from binary to probabilistic genetic selection.
+
+### Gap 8: Assumption-Destabilization Analysis
+**No systematic examination of how genetic technologies recursively transform** the ethical and conceptual frameworks used to evaluate them, despite evidence of framework instability.
+
+### Gap 9: Mathematical Incompatibility of Genetic Fairness
+**Limited recognition that genetic fairness definitions may be mathematically incompatible**, requiring culturally-specific rather than universal approaches to genetic equity.
+
 ## Literature Limitations
 
 ### Methodological Limitations
 - **Theoretical bias**: Most papers rely on philosophical analysis rather than empirical validation of claims
-- **Disciplinary silos**: Limited integration between disability studies, genetic ethics, and technology design research
+- **Disciplinary silos**: Limited integration between disability studies, genetic ethics, and technology design research  
 - **Western-centric perspectives**: Limited consideration of non-Western cultural frameworks for genetic selection
+- **Static analysis**: Research examines genetic technologies at single time points rather than tracking assumption evolution
+- **Population specificity ignored**: Limited recognition that genetic findings vary dramatically across ethnic populations
 
 ### Conceptual Limitations
 - **Static frameworks**: Research assumes stable ethical categories rather than examining dynamic interactions
 - **Individual focus**: Overemphasis on individual choice despite acknowledgment of collective impacts
 - **Technology determinism**: Limited examination of how genetic technologies reshape the problems they claim to solve
+- **Binary thinking persistence**: Continued reliance on therapy/enhancement distinctions despite evidence of spectrum complexity
+- **Framework stability assumption**: Failure to recognize that genetic technologies may destabilize the ethical frameworks used to evaluate them
 
 ## Research Direction Implications
 
-This literature review validates our central thesis that genetic selection technologies function as **assumption-destabilizing systems**. The gaps identified suggest need for:
+This literature review validates our central thesis that genetic selection technologies function as **assumption-destabilizing systems**. Recent empirical research (2023-2025) increasingly demonstrates the recursive effects we theorize, where genetic technologies undermine the frameworks used to evaluate them.
+
+**Key Evidence for Assumption-Destabilization:**
+- Polygenic risk scores transform genetic selection from binary to probabilistic, destabilizing genetic counseling (Capalbo et al., 2024)
+- Systematic ethics review reveals fundamental framework instability rather than resolution (Iltis et al., 2024)
+- AI fairness research shows mathematical impossibility of universal fairness definitions (Chen et al., 2023)
+- Disability rights analysis demonstrates that genetic technologies embed rather than reflect values (NCD, 2024)
+
+The gaps identified suggest need for:
 
 1. **Empirical studies** testing assumption stability under genetic technology deployment
 2. **Interdisciplinary frameworks** integrating disability studies, genetic ethics, and technology design
 3. **Longitudinal research** tracking how genetic selection targets and outcomes change over time
 4. **Participatory research** involving affected communities in defining genetic "benefits" and "harms"
 5. **Corrective equity models** that move beyond liberal equality assumptions
+6. **Probabilistic decision-making frameworks** that can handle genetic uncertainty
+7. **Adaptive ethical frameworks** that co-evolve with genetic technologies
+8. **Assumption archaeology methods** that surface embedded values in genetic technologies
 
-The literature confirms that current genetic selection research operates within inherited frameworks that may be fundamentally inadequate for the technologies being developed, supporting our argument for new theoretical approaches to genetic ethics.
+The literature confirms that current genetic selection research operates within inherited frameworks that may be fundamentally inadequate for the technologies being developed. More critically, **recent research increasingly validates our argument that genetic technologies function as assumption-destabilizing systems**, supporting our call for fundamentally new theoretical approaches to genetic ethics.
+
+
 

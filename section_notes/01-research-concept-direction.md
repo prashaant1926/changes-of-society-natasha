@@ -123,6 +123,68 @@ Our methodology includes:
 - **Cultural variation studies** across different value systems
 - **Systems-level analysis** of collective effects beyond individual outcomes
 
+## 6. Extended Literature Assumptions
+
+### Assumption 11: Predictable Enhancement Trajectories
+**Literature Position**: Research assumes genetic enhancements follow predictable improvement trajectories where modifications yield consistent positive outcomes across populations and contexts.
+
+**Our Challenge**: Enhancement trajectories are nonlinear and exhibit emergent properties, where genetic modifications may produce beneficial effects in some contexts while creating unexpected negative consequences in others.
+
+### Assumption 12: Separability of Enhancement and Identity
+**Literature Position**: Prior work assumes genetic enhancements can be separated from core personal identity, treating modifications as external additions rather than identity-constitutive changes.
+
+**Our Challenge**: Genetic enhancements fundamentally alter personal identity and self-conception, creating recursive effects where identity changes reshape the evaluation criteria for further enhancements.
+
+### Assumption 13: Technological Determinism in Genetic Outcomes
+**Literature Position**: Research assumes genetic technologies operate independently of social context, with outcomes determined primarily by biological mechanisms.
+
+**Our Challenge**: Genetic outcomes are co-constituted by technological and social factors, where social responses to genetic modifications alter their biological effects through psychosomatic and environmental pathways.
+
+### Assumption 14: Linear Relationship Between Genetic Investment and Social Benefit
+**Literature Position**: Literature assumes resources invested in genetic selection yield proportional social benefits, supporting cost-effectiveness analyses of genetic interventions.
+
+**Our Challenge**: Genetic selection may exhibit diminishing returns or even negative returns at scale, where widespread implementation undermines the social contexts that made individual modifications beneficial.
+
+### Assumption 15: Compatibility of Genetic Selection with Democratic Governance
+**Literature Position**: Prior work assumes genetic selection decisions can be integrated into democratic decision-making processes without undermining democratic principles.
+
+**Our Challenge**: Genetic selection creates epistemic inequalities between enhanced and non-enhanced populations that may be incompatible with democratic equality, requiring new forms of governance.
+
+## 7. Research Vectoring Analysis
+
+### Primary Risk Dimensions
+Based on our assumption archaeology, the highest-impact uncertainties are:
+
+1. **Framework Stability Risk**: Whether ethical frameworks can remain stable enough to guide genetic selection policy
+2. **Democratic Compatibility Risk**: Whether genetic selection undermines democratic equality principles
+3. **Identity Coherence Risk**: Whether genetic modifications preserve meaningful notions of human identity
+4. **Social Cohesion Risk**: Whether genetic selection creates irreversible social stratification
+
+### Research Velocity Strategy
+To maximize learning per unit time, we prioritize experiments that:
+- Test framework stability through rapid social context changes
+- Examine democratic compatibility through participatory governance simulations
+- Investigate identity effects through longitudinal enhancement studies
+- Measure social cohesion through community-level genetic intervention studies
+
+## 8. Methodological Extension: Assumption Network Mapping
+
+### Network Analysis Approach
+We extend traditional literature review with assumption network analysis:
+
+1. **Node Identification**: Each assumption becomes a network node
+2. **Edge Mapping**: Dependencies between assumptions create network edges  
+3. **Centrality Analysis**: Identify assumptions that support the most other assumptions
+4. **Cascade Modeling**: Predict how assumption failures propagate through the network
+5. **Intervention Planning**: Target high-centrality assumptions for maximum research impact
+
+### Example Network Structure
+- **Central Assumptions**: Individual autonomy, benefit/harm measurability, technology neutrality
+- **Dependent Assumptions**: Democratic compatibility, reversibility, equal access equity
+- **Cascade Effects**: Challenging individual autonomy undermines both democratic compatibility and equal access frameworks
+
+This network approach helps prioritize which assumptions to challenge first for maximum field-reshaping impact, following the CS-inspired methodology of identifying literature-level hypothesis targets.
+
 
 
 

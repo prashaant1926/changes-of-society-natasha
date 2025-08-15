@@ -1,3 +1,5 @@
+
+
 # Research Concept & Direction
 
 # Research Concept & Direction
@@ -120,6 +122,8 @@ Our methodology includes:
 - **Community participatory research** with affected populations
 - **Cultural variation studies** across different value systems
 - **Systems-level analysis** of collective effects beyond individual outcomes
+
+
 
 
 
